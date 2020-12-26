@@ -1,0 +1,93 @@
+.news-item .title {
+    color: black;
+    font-weight: bold;
+}
+
+.news-item .title a {
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+.list-news a {
+    text-decoration: none;
+    color: black;
+}
+
+.list-news {
+    background: #eaf8d2;
+    list-style: none;
+    margin-bottom: 0;
+}
+
+.list-news-2 {
+    background: #d5ecab;
+    list-style: none;
+}
+
+.list-news-2 a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.list-news a:hover {
+    color: green;
+}
+
+.news-item .title a:hover {
+    color: chartreuse;
+}
+
+.list-news-2 a:hover {
+    color: green;
+}
+
+.title-1 {
+    color: green;
+}
+
+.news-item2 {
+    color: green;
+    font-weight: bold;
+}
+
+.list-enter a {
+    text-decoration: none;
+    color: black;
+}
+
+.list-enter a:hover {
+    color: #78b43d;
+}
+
+.news-item3 {
+    color: forestgreen;
+    font-weight: bold;
+}
+
+.list-newck {
+    background: #fafafa;
+}
+
+.list-newck :hover {
+    cursor: pointer;
+}
+
+.ckup {
+    color: green;
+    font-weight: bold;
+}
+
+.ckdown {
+    color: red;
+    font-weight: bold;
+}
+
+.link-to {
+    font-weight: bold;
+}
+
+.table :hover {
+    cursor: pointer;
+}
